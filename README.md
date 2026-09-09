@@ -19,3 +19,6 @@ So, three months later, when I came to a new course called creative programming,
 Principle knowledge of programming is our navigation. Ihde's argument from the lecture is that technologies are never neutral tools, they shape what you perceive as possible. Learning programming does not mean I have to compete with AI in writing code. It means I need to understand the medium well enough to know what I can ask for, what I am getting, and whether it is actually what I want.
 
 (But what if one day even this fundamental process is replaced by AI? What if a fully autonomous AI animation director stands beside me, with the ability to create and tell meaningful stories? Then how do we find our meaning in this world?)
+
+# reference
+Ihde's argument about technology and perception was introduced in the course assignment prompt and lecture materials.
