@@ -1,1 +1,1 @@
-Placeholder
+I have limitation in writing capacity, but I tried to write on my own, just like my handmade animation. The essay was written by my hands, and honestly, I refined some of the grammar problems with the help of chatgpt. The expression, the thinking, the stories, the feelings, are my own. 

@@ -1,2 +1,21 @@
 # Bessie-xi-repowork
 for assignment for SD5913
+Why are we here?
+
+In June, 2026, a rainy morning, after roughly five months of tough work, I finally sat in the school cinema to enjoy our graduation film festival. As an animation student, it was the most important and meaningful moments to share your own work with everyone in the university. This year, judges selected four outstanding animation work, mine was one of them. An independent animation had a long-term production process and you need overcome a lot. For every animation director, their work is almost their child, and I raised mine against so many odds. I believed I was fully deserved it.
+
+I should be excited to see my work shown on the screen but the reality was, I was consumed into  despair since I found that nearly 90 percent of final works were AI-generated, my work was even the only handmade one among four golden medals.
+
+24 frames per second, at least 15 seconds per shot, total 3 minutes clip took me roughly 200 days. 60,000 plus frames, refined countless times. It turned out that an AI animation can be easier to  get a golden medal. I am an artist, there is something I must keep pure in my creations. My final animation work is to tell a tragic story that happened in a rural area, so I believe that a hand-drawn 2D animation would be the best way to reflect the story because I need ‘true’ movement details which can’t be replaced by AI yet. However, AI generation becomes more and more powerful and recently I’ve seen so many AI works that are really amazing. I realize one day the boundary between real and fake would be no longer matter. Imagine that you will get two completely same works, one needs 5 months and the other needs 5 seconds, which one would you choose?
+
+Then why am I here? If AI can increasingly generate a perfect animation for me, why do I still need to learn animation? 
+
+When I told my professor I don’t want to pursue animation anymore because of AI, she just said to me: “You know you are the only one who is able to convey these stories, there is something only you can do. It is nothing to do with AI.”
+
+I did four years of volunteer work in that rural community, and I contacted lots of villagers there. I met many people and got to know a lot stories about them, from the overall fate of these mountainous villages to their small, individual experiences. I began to realize that the golden medal wasn’t for my quantity of drawing work but for my meaningful participation and observation as a capable animation director. That’s what a really important capacity in modern society. Knowing how to use AI is not enough to make someone a capable animation director. You must know these emotions and experiences and figure out what a good story will look like.  
+
+So, three months later, when I came to a new course called creative programming, where you asked us: “AI can generate code in 5 seconds, so why are you here to learn how to program?” I believe they are the same questions as I encountered in my undergraduate film festival. If you don’t even know the principles of programming, then the only thing you can do is to be dominated by AI completely. AI is a powerful tool, and I am here to learn how to control it. It is like we are taking different paths to Rome, someone can only choose one path because they are afraid of loss, however others are able to select various transportation because they have navigation.
+
+Principle knowledge of programming is our navigation. Ihde's argument from the lecture is that technologies are never neutral tools, they shape what you perceive as possible. Learning programming does not mean I have to compete with AI in writing code. It means I need to understand the medium well enough to know what I can ask for, what I am getting, and whether it is actually what I want.
+
+(But what if one day even this fundamental process is replaced by AI? What if a fully autonomous AI animation director stands beside me, with the ability to create and tell meaningful stories? Then how do we find our meaning in this world?)
