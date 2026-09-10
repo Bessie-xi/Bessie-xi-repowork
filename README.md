@@ -16,9 +16,9 @@ I did four years of volunteer work in that rural community, and I contacted lots
 
 So, three months later, when I came to a new course called creative programming, where you asked us: “AI can generate code in 5 seconds, so why are you here to learn how to program?” I believe they are the same questions as I encountered in my undergraduate film festival. If you don’t even know the principles of programming, then the only thing you can do is to be dominated by AI completely. AI is a powerful tool, and I am here to learn how to control it. It is like we are taking different paths to Rome, someone can only choose one path because they are afraid of loss, however others are able to select various transportation because they have navigation.
 
-Principle knowledge of programming is our navigation. Ihde's argument from the lecture is that technologies are never neutral tools, they shape what you perceive as possible. Learning programming does not mean I have to compete with AI in writing code. It means I need to understand the medium well enough to know what I can ask for, what I am getting, and whether it is actually what I want.
+Principle knowledge of programming is our navigation. Ihde's argument from the lecture is that technologies are never neutral tools, they shape what you perceive as possible. Learning programming does not mean I have to compete with AI in writing code. It means I need to understand the medium well enough to know what I can ask for, what I am getting, and whether it is actually what I want. And I believe that's the reason why am I here. 
 
-(But what if one day even this fundamental process is replaced by AI? What if a fully autonomous AI animation director stands beside me, with the ability to create and tell meaningful stories? Then how do we find our meaning in this world?)
+
 
 # reference
 Ihde's argument about technology and perception was introduced in the course assignment prompt and lecture materials.
