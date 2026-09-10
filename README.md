@@ -21,5 +21,5 @@ Principle knowledge of programming is our navigation. Ihde's argument from the l
 
 
 
-# Reference
+# References
 Ihde's argument about technology and perception was introduced in the course assignment prompt and lecture materials.
