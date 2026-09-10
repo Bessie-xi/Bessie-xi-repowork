@@ -1,6 +1,7 @@
 # Bessie-xi-repowork
 for assignment for SD5913
-Why are we here?
+
+# Why are we here?
 
 In June, 2026, a rainy morning, after roughly five months of tough work, I finally sat in the school cinema to enjoy our graduation film festival. As an animation student, it was the most important and meaningful moments to share your own work with everyone in the university. This year, judges selected four outstanding animation work, mine was one of them. An independent animation had a long-term production process and you need overcome a lot. For every animation director, their work is almost their child, and I raised mine against so many odds. I believed I was fully deserved it.
 
